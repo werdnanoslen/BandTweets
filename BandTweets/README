@@ -1,0 +1,1 @@
+This was a little project to play around with Processing, Twitter API, and LastFM API. The result is a little app that requests related bands to the one the user of BandTweets enters and shows recent related tweets.
