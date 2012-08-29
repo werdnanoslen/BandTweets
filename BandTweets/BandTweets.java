@@ -38,30 +38,12 @@ import java.util.regex.*;
 public class BandTweets extends PApplet {
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //access keys
-String lastfm_key = "88837f85d0d12a6c3678fd1f6c7fbefe";
-String consumer_key = "LDwH7z5El5o0BW9V20nvw";
-String consumer_secret = "XT4ldRIbuyVrKo6iMuWWxW25dzZxkufXceaq5ZEc";
-String access_token = "61054644-bbb7rzkbwJ4TEg1Fd5GSY3f5K9XEUm1uKjr5rgCGg";
-String access_token_secret = "H3CkKknJV6ozDM0uBffbmDJNlR6mtQEPxDXpOy2Jtw";
+String lastfm_key = "";
+String consumer_key = "";
+String consumer_secret = "";
+String access_token = "";
+String access_token_secret = "";
 //end access keys
 
 boolean typing;
